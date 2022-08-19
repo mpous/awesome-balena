@@ -31,6 +31,7 @@ You can [contribute](#contributing) your own tool to the list by creating a pull
 - [balenaFin](https://www.balena.io/fin/), the balenaFin is a professional carrier board for the Raspberry Pi Compute Module.
 - [openBalena](https://www.balena.io/open/), open source software to manage connected IoT devices.
 
+
 ## Developer Tools
 
 ### CLIs
@@ -52,6 +53,8 @@ You can [contribute](#contributing) your own tool to the list by creating a pull
 ### Interfaces and Administration
 
 - [Open balena Admin](https://github.com/dcaputo-harmoni/open-balena-admin): Open source admin interface for openbalena.
+- [Open balena dashboard and app](https://github.com/Razikus/open-balena-dashboard): Open balena dashboard and mobile application.
+
 
 # Contributing
 
